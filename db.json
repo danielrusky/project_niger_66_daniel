@@ -1,0 +1,91 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-11-21T17:23:48.779Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "1",
+    "object_repr": "Danila",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-11-21T17:24:03.595Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "2",
+    "object_repr": "Evgeniy",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.group",
+  "pk": 1,
+  "fields": {
+    "name": "Danila",
+    "permissions": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      11,
+      12,
+      5,
+      6,
+      7,
+      8,
+      13,
+      14,
+      15,
+      16,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "pk": 2,
+  "fields": {
+    "name": "Evgeniy",
+    "permissions": [
+      10,
+      12
+    ]
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "a2hsdebgovx60mcww9bwz1ieiumltnzs",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2pBSpkBduvcMZAZmpGpoUtqV8e7apAvd_vfef6mI21ri1niJU1ZnZdTpdyNMD647yHest1mnua7LRHpX9EGbvs6Zn5fD_Tso2Mq3BpbBWGISIWLrPXbgCCykRD1b12U0waEYE_woZmDwKVAvIwTyXkS9PwhBOJs:1r5USj:RLQcNzfE3RdMD4ch5w03KuyUkorsO54EaKbR5Rz-uiE",
+    "expire_date": "2023-12-05T17:23:01.528Z"
+  }
+}
